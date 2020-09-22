@@ -1,9 +1,9 @@
 import React, {Component}from 'react';
 import './App.css';
-import Title from "../src/components/title"
-import Wrapper from "../src/components/wrapper"
-import Card from "../src/components/card"
-import matches from "../src/cards.json"
+import Title from "./components/title"
+import Wrapper from "./components/wrapper"
+import Card from "./components/card"
+import matches from "./cards.json"
 
 
 
