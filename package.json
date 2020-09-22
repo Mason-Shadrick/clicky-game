@@ -1,0 +1,28 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mason-Shadrick/clicky-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mason-Shadrick/clicky-game/issues"
+  },
+  "homepage": "https://github.com/Mason-Shadrick/clicky-game#readme"
+}
